@@ -1,0 +1,7 @@
+C:\Users\Kab-31-13\Desktop\T12_4\bin\Debug\T12_4.exe.config
+C:\Users\Kab-31-13\Desktop\T12_4\bin\Debug\T12_4.exe
+C:\Users\Kab-31-13\Desktop\T12_4\bin\Debug\T12_4.pdb
+C:\Users\Kab-31-13\Desktop\T12_4\obj\Debug\T12_4.csproj.AssemblyReference.cache
+C:\Users\Kab-31-13\Desktop\T12_4\obj\Debug\T12_4.csproj.CoreCompileInputs.cache
+C:\Users\Kab-31-13\Desktop\T12_4\obj\Debug\T12_4.exe
+C:\Users\Kab-31-13\Desktop\T12_4\obj\Debug\T12_4.pdb
